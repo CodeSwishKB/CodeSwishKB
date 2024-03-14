@@ -25,9 +25,9 @@ Consistency is the key!
 
 <!-- <hr>
 
-<!-- ### Connect with me:
+### Connect with me:
 
-[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://ph.linkedin.com/in/kyle-barco-09182b279)&nbsp;&nbsp; --> -->
+[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://ph.linkedin.com/in/kyle-barco-09182b279)&nbsp;&nbsp; -->
 
 <hr>
 
