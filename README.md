@@ -45,7 +45,7 @@ Web Development:
 
 <hr>
 
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSwishKB&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSwishKB&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/CodeSwishKB/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSwishKB&layout=compact&theme=gotham&card_width=445)](https://github.com/CodeSwishKB/github-readme-stats)
 
