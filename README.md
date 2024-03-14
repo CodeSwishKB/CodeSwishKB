@@ -20,7 +20,7 @@ Consistency is the key!
 #### 2024 Goals
 
 - :muscle: Get better at JS and Project Designs
-- :zap: Start to write better, matainable and reusable code using the SOLID principle
+- :zap: Start to write scalable, matainable and reusable code using the SOLID principle
 - :construction: Personal Portfolio - Coming Soon!
 
 <!-- <hr>
