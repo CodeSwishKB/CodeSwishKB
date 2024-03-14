@@ -49,6 +49,6 @@ Web Development:
 
 <br>[![GitHub Streak](https://streak-stats.demolab.com?user=CodeSwishKB&count_private=true&theme=react&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSwishKB&layout=compact&theme=gotham&card_width=445)](https://github.com/CodeSwishKB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSwishKB&layout=compact&theme=react&card_width=445)](https://github.com/CodeSwishKB/github-readme-stats)
 
 <!-- [![Spotify](https://spotify-now-playing-anthonydwan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/317owzeyfbimi7kljyqqy7c7fhhu) -->
