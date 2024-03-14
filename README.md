@@ -49,4 +49,4 @@ Web Development:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSwishKB&layout=compact&theme=gotham&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://spotify-now-playing-317owzeyfbimi7kljyqqy7c7fhhu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/317owzeyfbimi7kljyqqy7c7fhhu)
+[![Spotify](https://spotify-now-playing-CodeSwishKB.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/317owzeyfbimi7kljyqqy7c7fhhu)
