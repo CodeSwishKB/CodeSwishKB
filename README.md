@@ -4,10 +4,10 @@
 
 ### Nice to meet you, I'm CodeSwishKB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- :college: I'm 1st year BSIT Student.
+- :school: I'm 1st year BSIT Student.
 - :computer: Currently learning JavaScript.
 - :basketball: When I'm not coding, you'll probably find me on the basketball court, indulging in my hoop dreams. Whether sinking threes or catching Lakers' games, basketball fuels my passion and keeps me moving. 🏀
-- :exercise: To balance my coding and basketball, I find solace in the simple joy of jogging. 🏃‍♂️ The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
+- :jogging: To balance my coding and basketball, I find solace in the simple joy of jogging. 🏃‍♂️ The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
 
 ```diff
 Consistency is the key!
