@@ -2,30 +2,28 @@
 
 <hr>
 
-### Nice to meet you, I'm Anthony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
+### Nice to meet you, I'm CodeSwishKB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- :computer: I'm currently learning Java, Ruby and Linux OS.
-- :books: I studied Master of Data Science @ University of Sydney
-- :raised_hands: Currently SDE I @ AWS
-- :saxophone: I listen to Cafe Jazz when I code
+- :college: I'm 1st year BSIT Student.
+- :computer: Currently learning JavaScript.
+- :basketball: When I'm not coding, you'll probably find me on the basketball court, indulging in my hoop dreams. Whether sinking threes or catching Lakers' games, basketball fuels my passion and keeps me moving. 🏀
+- :exercise: To balance my coding and basketball, I find solace in the simple joy of jogging. 🏃‍♂️ The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
 
 ```diff
-Be Humble, Stay Curious
+Consistency is the key!
 ```
 
 #### 2024 Goals
 
-- :muscle: Get better at software designs
-- :rocket: Start contributing to Open Source
-- :zap: Write cleaner code
+- :muscle: Get better at JS and Project Designs
+- :zap: Start to write better, matainable and reusable code using the SOLID principle
 - :construction: Personal Portfolio - Coming Soon!
 
 <hr>
 
 ### Connect with me:
 
-[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://www.linkedin.com/in/anthony-w-230452a2/)&nbsp;&nbsp;
-[<img alt="twitter" src="./images/twitter.svg" width="25">](https://twitter.com/anthonydwan)
+[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://ph.linkedin.com/in/kyle-barco-09182b279)&nbsp;&nbsp;
 
 <hr>
 
