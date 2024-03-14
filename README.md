@@ -7,7 +7,7 @@
 - :school: I'm 1st year BSIT Student.
 - :computer: Currently learning JavaScript.
 - :basketball: When I'm not coding, you'll probably find me on the basketball court, indulging in my hoop dreams. Whether sinking threes or catching Lakers' games, basketball fuels my passion and keeps me moving. 🏀
-- :jog: To balance my coding and basketball, I find solace in the simple joy of jogging. 🏃‍♂️ The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
+- :run: To balance my coding and basketball, I find solace in the simple joy of jogging. 🏃‍♂️ The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
 
 ```diff
 Consistency is the key!
@@ -21,9 +21,9 @@ Consistency is the key!
 
 <hr>
 
-### Connect with me:
+<!-- ### Connect with me:
 
-[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://ph.linkedin.com/in/kyle-barco-09182b279)&nbsp;&nbsp;
+[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://ph.linkedin.com/in/kyle-barco-09182b279)&nbsp;&nbsp; -->
 
 <hr>
 
