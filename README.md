@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeSwishKB.CodeSwishKB" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeSwishKB.CodeSwishKB" /> -->
+
+![visitors](https://visitor-badge.laobi.icu/badge?CodeSwishKB=CodeSwishKB)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=28&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+CodeSwishKB's+Github!)](https://git.io/typing-svg)
 
