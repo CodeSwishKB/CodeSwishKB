@@ -36,18 +36,19 @@ Consistency is the key!
 Web Development:
 
 <img alt= "vsc" src="/images/Web/1.vsc.svg" width="25">&nbsp;&nbsp;
-<img alt= "nvim" src="/images/Web/11.nvim.svg" width="25">&nbsp;&nbsp;
+<img alt= "nvim" src="/images/Web/10.neovim.svg" width="25">&nbsp;&nbsp;
 <img alt="html5" src="/images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
 <img alt= "css3" src="/images/Web/3.css3.svg" width="25">&nbsp;&nbsp;
 <img alt="javscript" src="/images/Web/4.javascript.svg" width="25">&nbsp;&nbsp;
 <img alt="reactjs" src="/images/Web/12.react.svg" width="25">&nbsp;&nbsp;
-<img alt="nodejs" src="/images/Web/10.nodejs.svg" width="25">&nbsp;&nbsp;
+<img alt="nodejs" src="/images/Web/11.nodejs.svg" width="25">&nbsp;&nbsp;
 <img alt= "git" src="/images/Web/7.git.svg" width="25">&nbsp;&nbsp;
 <img alt="npm" src="/images/Web/8.npm.svg" width="25">&nbsp;&nbsp;
 <img alt= "jest" src="/images/Web/9.jest.svg" width="25" height="25">&nbsp;&nbsp;
 
 
 Others: 
+
 <img alt= "linux" src="/images/Others/linux.svg" width="25" height="25">&nbsp;&nbsp;
 <img alt= "arch" src="/images/Others/archlinux_icon.svg" width="25" height="25">&nbsp;&nbsp;
 
