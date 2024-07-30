@@ -8,13 +8,14 @@
 
 ### Nice to meet you, I'm CodeSwishKB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- :school: I'm 1st year DIT Student at Polytechnic University of The Philippines
+- :school: I'm 1st year DIT Student at Polytechnic University of The Philippines Sta. Mesa Campus
 - :computer: Currently learning JavaScript.
-- :basketball: When I'm not coding, you'll probably find me on the basketball court, indulging in my hoop dreams. Whether sinking threes or catching Lakers' games, basketball fuels my passion and keeps me moving. 🏀
-- 🏃‍♂️ To balance my coding and basketball, I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
+- :basketball: When I'm not coding, you'll probably find me on the basketball court. Sinking threes or catching Lakers' games. 🏀
+- 🏃‍♂️ To I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
 
 ```diff
 Consistency is the key!
+If you wait for inspiration you'll never get anything done.
 ```
 
 #### 2024 Goals
