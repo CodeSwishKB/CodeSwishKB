@@ -8,7 +8,7 @@
 
 ### Nice to meet you, I'm CodeSwishKB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- :school: I'm 1st year BSIT Student.
+- :school: I'm 1st year DIT Student at Polytechnic University of The Philippines
 - :computer: Currently learning JavaScript.
 - :basketball: When I'm not coding, you'll probably find me on the basketball court, indulging in my hoop dreams. Whether sinking threes or catching Lakers' games, basketball fuels my passion and keeps me moving. 🏀
 - 🏃‍♂️ To balance my coding and basketball, I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
@@ -36,13 +36,22 @@ Consistency is the key!
 Web Development:
 
 <img alt= "vsc" src="/images/Web/1.vsc.svg" width="25">&nbsp;&nbsp;
+<img alt= "nvim" src="/images/Web/11.nvim.svg" width="25">&nbsp;&nbsp;
 <img alt="html5" src="/images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
 <img alt= "css3" src="/images/Web/3.css3.svg" width="25">&nbsp;&nbsp;
 <img alt="javscript" src="/images/Web/4.javascript.svg" width="25">&nbsp;&nbsp;
+<img alt="reactjs" src="/images/Web/12.react.svg" width="25">&nbsp;&nbsp;
+<img alt="nodejs" src="/images/Web/10.nodejs.svg" width="25">&nbsp;&nbsp;
 <img alt= "git" src="/images/Web/7.git.svg" width="25">&nbsp;&nbsp;
 <img alt="npm" src="/images/Web/8.npm.svg" width="25">&nbsp;&nbsp;
 <img alt= "jest" src="/images/Web/9.jest.svg" width="25" height="25">&nbsp;&nbsp;
 
+
+Others: 
+<img alt= "linux" src="/images/Others/linux.svg" width="25" height="25">&nbsp;&nbsp;
+<img alt= "arch" src="/images/Others/archlinux_icon.svg" width="25" height="25">&nbsp;&nbsp;
+
+<img alt= "windows" src="/images/OS/windows.svg" width="25" height="25">&nbsp;&nbsp;
 <hr>
 
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSwishKB&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/CodeSwishKB/github-readme-stats)
