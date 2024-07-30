@@ -2,11 +2,11 @@
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CodeSwishKB.CodeSwishKB) -->
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%61dafb&size=28&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+CodeSwishKB's+Github!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%61dafb&size=28&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+Kyle+Barco's+Github!)](https://git.io/typing-svg)
 
 <hr>
 
-### Nice to meet you, I'm CodeSwishKB <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
+### Nice to meet you, I'm Kyle Barco <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
 - :school: I'm 1st year DIT Student at Polytechnic University of The Philippines Sta. Mesa Campus
 - :computer: Currently learning JavaScript.
@@ -55,10 +55,10 @@ Others:
 <img alt= "windows" src="/images/OS/windows.svg" width="25" height="25">&nbsp;&nbsp;
 <hr>
 
-<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSwishKB&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/CodeSwishKB/github-readme-stats)
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-barco&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/kyle-barco/github-readme-stats)
 
-<br>[![GitHub Streak](https://streak-stats.demolab.com?user=CodeSwishKB&count_private=true&theme=react&border_radius=10)](https://git.io/streak-stats)
+<br>[![GitHub Streak](https://streak-stats.demolab.com?user=kyle-barco&count_private=true&theme=react&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSwishKB&layout=compact&theme=react&card_width=445)](https://github.com/CodeSwishKB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-barco&layout=compact&theme=react&card_width=445)](https://github.com/kyle-barco/github-readme-stats)
 
 <!-- [![Spotify](https://spotify-now-playing-anthonydwan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/317owzeyfbimi7kljyqqy7c7fhhu) -->
