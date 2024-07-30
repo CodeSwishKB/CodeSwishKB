@@ -14,8 +14,8 @@
 - 🏃‍♂️ To I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
 
 ```diff
-Consistency is the key!
 If you wait for inspiration you'll never get anything done.
+Consistency is the key!
 ```
 
 #### 2024 Goals
