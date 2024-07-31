@@ -11,7 +11,7 @@
 - :school: I'm 1st year DIT Student at Polytechnic University of The Philippines Sta. Mesa Campus
 - :computer: Currently learning JavaScript.
 - :basketball: When I'm not coding, you'll probably find me on the basketball court. Sinking threes or catching Lakers' games. 🏀
-- 🏃‍♂️ To I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
+- 🏃‍♂️ I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
 
 ```diff
 If you wait for inspiration you'll never get anything done.
