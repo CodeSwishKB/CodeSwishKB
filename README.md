@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CodeSwishKB.CodeSwishKB" />
+<br/><a href="https://www.linkedin.com/in/kyle-barco-09182b279/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:barco.jaztherkyle.delacerna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<hr>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=CodeSwishKB.CodeSwishKB) -->
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%61dafb&size=28&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+Kyle+Barco's+Github!)](https://git.io/typing-svg)
 
-<br/><a href="https://www.linkedin.com/in/kyle-barco-09182b279/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:barco.jaztherkyle.delacerna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<hr>
 
 ### Nice to meet you, I'm Kyle Barco <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
