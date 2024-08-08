@@ -10,7 +10,7 @@
 
 ### Nice to meet you, I'm Kyle Barco <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- :school: I'm 1st year DIT Student at Polytechnic University of The Philippines Sta. Mesa Campus
+- :school: I'm 1st year Information Technology student at Polytechnic University of The Philippines Sta. Mesa Campus
 - :computer: Currently learning JavaScript.
 - :basketball: When I'm not coding, you'll probably find me on the basketball court. Sinking threes or catching Lakers' games. 🏀
 - 🏃‍♂️ I find solace in the simple joy of jogging. The rush of wind and the clarity it brings often sparks new ideas and inspirations in my mind.
